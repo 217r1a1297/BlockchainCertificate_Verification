@@ -40,8 +40,8 @@ verifying academic or professional credentials.
 
 1. Clone the repository
 
-git clone https://github.com/217r1a1297/BlockchainCertificate_Verification.git
-cd BlockchainCertificate_Verification
+git clone [https://github.com/217r1a1297/BlockchainCertificate_Verification.git
+cd BlockchainCertificate_Verification](https://github.com/217r1a1297/BlockchainCertificate_Verification)
 
 2. Install dependencies
 
