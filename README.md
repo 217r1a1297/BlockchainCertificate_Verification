@@ -40,7 +40,7 @@ verifying academic or professional credentials.
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/BlockchainCertificate_Verification.git
+git clone https://github.com/Kodam/BlockchainCertificate_Verification.git
 cd BlockchainCertificate_Verification
 
 2. Install dependencies
